@@ -20,9 +20,9 @@
 
 <div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,189,248,0.15);">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,bootstrap,tailwind,nodejs,express,mongodb&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,bootstrap,tailwind,nodejs,express,mongodb&perline=13&theme=dark" height="33" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,vscode,figma,postman,docker,androidstudio,linux&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,vscode,figma,postman,docker,androidstudio,linux&perline=13&theme=dark" height="33" />
 
 </div>
 
@@ -45,11 +45,11 @@
 | Property | Data |
 | :--- | :--- |
 | **🚀 About Me** | Software Application Developer passionate about building high-performance web and mobile applications. |
-| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql" /></p> |
-| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" /></p> |
-| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb" /></p> |
-| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter,androidstudio" /></p> |
-| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /></p> |
+| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql" height="33" /></p> |
+| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" height="33" /></p> |
+| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb" height="33" /></p> |
+| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter,androidstudio" height="33" /></p> |
+| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" height="33" /></p> |
 
 <br/>
 
