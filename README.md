@@ -1,10 +1,5 @@
-<!-- 
-Hi! I'm Melese Abrham. 
-Developing scalable and high-performance applications.
--->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,E1BEE7,B3E5FC&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
