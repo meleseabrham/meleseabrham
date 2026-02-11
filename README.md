@@ -6,17 +6,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2381D4FA&center=true&vCenter=true&width=800&height=30&lines=Building+scalable+web+%26+mobile+systems+with+modern+technologies" alt="Description" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,css,bootstrap,tailwind,nodejs,express,mongodb,express&perline=15&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,github,vscode,figma,postman,vercel,docker,android,linux&perline=15&theme=dark" />
-</p>
 
 <p align="center">
     <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square"></a>
     <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Focus-Fullstack-FF1493?style=flat-square"></a>
     <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github"></a>
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,css,bootstrap,tailwind,nodejs,express,mongodb,express&perline=15&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,github,vscode,figma,postman,vercel,docker,android,linux&perline=15&theme=dark" />
 </p>
 
 <p align="center">
