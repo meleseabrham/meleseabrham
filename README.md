@@ -14,7 +14,7 @@
 <p align="center">
     <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square"></a>
     <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Focus-Fullstack-FF1493?style=flat-square"></a>
-    <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github"></a>
+    <a href="https://github.com/meleseabrham?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Total%20Stars-View-gold?style=flat-square&logo=github"></a>
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
@@ -60,12 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight" />
-  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=meleseabrham&theme=tokyonight" />
 </p>
 
 <p align="center">
