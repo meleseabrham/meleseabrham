@@ -26,7 +26,7 @@
 
 </div>
 
-
+<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -72,9 +72,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
-## 💼 Featured Work
+<!-- ## 💼 Featured Work -->
 
-### 🌐 Personal Portfolio  
+## 🌐 Personal Portfolio  
 🔗 **Live:** https://melese.vercel.app  
 
 A modern, fully responsive portfolio showcasing my projects, skills, services, and professional background.  
@@ -82,10 +82,10 @@ Built with modern frontend technologies and optimized for performance and scalab
 
 ---
 
-### 📦 GitHub Projects  
+<!-- ### 📦 GitHub Projects  
 🔗 **Repository:** https://github.com/meleseabrham  
 
-A collection of web applications, mobile apps, backend systems, and full-stack solutions demonstrating practical implementations of real-world software architecture and development principles.
+A collection of web applications, mobile apps, backend systems, and full-stack solutions demonstrating practical implementations of real-world software architecture and development principles. -->
 
 <br/>
 
