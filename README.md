@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,E1BEE7,B3E5FC&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,0D1117,1A237E,0D1117&height=300&section=header&text=Melese%20Abrham&fontSize=80&fontColor=B3E5FC&desc=Full%20Stack%20Developer%20%20%7C%20%20Mobile%20App%20Engineer&descSize=30&descAlignY=65&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2381D4FA&center=true&vCenter=true&width=800&height=30&lines=Building+scalable+web+%26+mobile+systems+with+modern+technologies" alt="Description" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,css,bootstrap,tailwind,nodejs,express,mongodb,express&perline=15&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,github,vscode,figma,postman,vercel,docker,android,linux&perline=15&theme=dark" />
 </p>
 
 <p align="center">
@@ -9,13 +19,6 @@
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,react,html,css,bootstrap,tailwind,nodejs,express&perline=14&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb,flutter,git,github,vscode,figma,vercel,postman,docker,linux&perline=14&theme=dark" />
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
