@@ -14,7 +14,7 @@
 <p align="center">
     <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square"></a>
     <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Focus-Fullstack-FF1493?style=flat-square"></a>
-    <a href="https://github.com/meleseabrham?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Total%20Stars-View-gold?style=flat-square&logo=github"></a>
+    <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github"></a>
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
