@@ -18,7 +18,7 @@
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
-<div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,189,248,0.15);">
+<div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,250,248,0.15);">
 
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
