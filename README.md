@@ -74,9 +74,10 @@ Web apps, mobile applications, backend systems, and full-stack solutions.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
