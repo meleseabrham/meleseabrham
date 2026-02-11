@@ -72,15 +72,12 @@ Web apps, mobile applications, backend systems, and full-stack solutions.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight" />
-</p>
+![Melese's GitHub stats](https://github-readme-stats.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
