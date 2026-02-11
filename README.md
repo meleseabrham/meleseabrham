@@ -18,7 +18,7 @@
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a); padding: 25px; border-radius: 20px;">
+<div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,189,248,0.15);">
 
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,bootstrap,tailwind,nodejs,express,mongodb&perline=13&theme=dark" />
   <br><br>
@@ -74,8 +74,18 @@
 
 ## 💼 Featured Work
 
-- **🌐 Personal Portfolio**: [melese.vercel.app](https://melese.vercel.app) - Modern responsive portfolio.
-- **📦 GitHub Projects**: [meleseabrham](https://github.com/meleseabrham) - Web, mobile, and full-stack solutions.
+### 🌐 Personal Portfolio  
+🔗 **Live:** https://melese.vercel.app  
+
+A modern, fully responsive portfolio showcasing my projects, skills, services, and professional background.  
+Built with modern frontend technologies and optimized for performance and scalability.
+
+---
+
+### 📦 GitHub Projects  
+🔗 **Repository:** https://github.com/meleseabrham  
+
+A collection of web applications, mobile apps, backend systems, and full-stack solutions demonstrating practical implementations of real-world software architecture and development principles.
 
 <br/>
 
