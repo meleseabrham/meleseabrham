@@ -44,11 +44,11 @@
 | Property | Data |
 | :--- | :--- |
 | **🚀 About Me** | Software Application Developer passionate about building high-performance web and mobile applications. |
-| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql&height=40" /></p> |
-| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&height=40" /></p> |
-| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb&height=40" /></p> |
-| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&height=40" /></p> |
-| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&height=40" /></p> |
+| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql&height=20" /></p> |
+| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&height=20" /></p> |
+| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb&height=20" /></p> |
+| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter,androidstudio&height=20" /></p> |
+| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&height=20" /></p> |
 
 
 <br/>
