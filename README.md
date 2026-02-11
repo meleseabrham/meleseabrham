@@ -20,33 +20,33 @@
 
 <div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,189,248,0.15);">
 
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="33" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="33" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="33" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" height="33" />
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="33" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" height="33" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="33" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="33" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="33" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="33" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="33" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="33" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="33" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="33" />
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="33" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="33" />
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="33" />
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="33" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="33" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="33" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="33" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="33" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="33" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="33" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="33" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="33" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 
 </div>
 
