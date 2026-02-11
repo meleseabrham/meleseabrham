@@ -26,26 +26,27 @@
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <br><br>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+   <br><br>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-  <br><br>
+
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
+    <br><br>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-    <br><br>
+
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+      <br><br>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <br><br>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
