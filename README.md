@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
-    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/github/languages/top/meleseabrham/meleseabrham?color=FF1493"></a>
-    <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=social"></a>
-    <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?label=Followers&style=social"></a>
+    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square"></a>
+    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Focus-Fullstack-FF1493?style=flat-square"></a>
+    <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github"></a>
+    <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql,react,html,css,bootstrap,tailwind,nodejs,express,firebase,supabase,mysql,mongodb,flutter,android,git,github,vscode,figma,vercel,postman,docker,linux&perline=14&theme=dark" />
 </p>
 
 <p align="center">
@@ -47,9 +51,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
