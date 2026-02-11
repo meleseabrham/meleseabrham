@@ -9,16 +9,16 @@
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,react,html,css,bootstrap,tailwind,nodejs,express&perline=14&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb,flutter,git,github,vscode,figma,vercel,postman,docker,linux&perline=14&theme=dark" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Melese+Abrham;Full+Stack+%26+Mobile+App+Developer;Building+modern+digital+solutions;Flutter+%26+Kotlin+Enthusiast;React+%26+Node.js+Expert" alt="Typing SVG" />
