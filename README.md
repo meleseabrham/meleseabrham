@@ -18,17 +18,14 @@
     <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
 </p>
 
-<div bgcolor="#0a0a0a" align="center">
-  <table border="0">
-    <tr>
-      <td  align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,css,bootstrap,tailwind,nodejs,express,mongodb,express&perline=15&theme=dark" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,github,vscode,figma,postman,vercel,docker,android,linux&perline=15&theme=dark" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a); padding: 25px; border-radius: 20px;">
+
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,kotlin,react,html,css,bootstrap,tailwind,nodejs,express,mongodb&perline=13&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,dart,flutter,github,vercel,vscode,figma,postman,docker,androidstudio,linux&perline=13&theme=dark" />
+
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
