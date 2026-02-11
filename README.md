@@ -1,76 +1,49 @@
-# 👋 Hi, I'm Melese Abrham
+<!-- 
+Hi! I'm Melese Abrham. 
+Developing scalable and high-performance applications.
+-->
 
-🚀 Software Application Developer | Full Stack Developer | Mobile App Developer  
-
-I build modern, scalable, and high-performance web and mobile applications using industry-standard technologies.
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Web Developer
-- 📱 Mobile App Developer (Flutter & Kotlin)
-- ☁️ Backend & Cloud Systems Developer
-- 🏗️ System Architecture & Database Design
-- 🎯 Problem Solver & Continuous Learner
-
-I enjoy transforming ideas into powerful digital solutions.
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
----
-
-## 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+<p align="center">
+    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
+    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/github/languages/top/meleseabrham/meleseabrham?color=FF1493"></a>
+    <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=social"></a>
+    <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?label=Followers&style=social"></a>
 </p>
 
----
-
-## ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Melese+Abrham;Full+Stack+%26+Mobile+App+Developer;Building+modern+digital+solutions;Flutter+%26+Kotlin+Enthusiast;React+%26+Node.js+Expert" alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-## 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-## 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
----
+## 🛠️ Expertise & Tech Stack
 
-# 💼 Featured Work
+| Property | Data |
+| :--- | :--- |
+| **🚀 About Me** | Software Application Developer passionate about building high-performance web and mobile applications. |
+| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql" /></p> |
+| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" /></p> |
+| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb" /></p> |
+| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter,androidstudio" /></p> |
+| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" /></p> |
 
-### 🌐 Personal Portfolio
-🔗 https://melese.vercel.app  
-Modern responsive portfolio showcasing projects, resume, and services.
+<br/>
 
-### 📦 GitHub Projects
-🔗 https://github.com/meleseabrham  
-Web apps, mobile applications, backend systems, and full-stack solutions.
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -79,14 +52,41 @@ Web apps, mobile applications, backend systems, and full-stack solutions.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight" />
+</p>
 
-# 📫 Contact Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
-📧 Email: meleseabrham17@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/melesse-abrham/  
-🌐 Portfolio: https://melese.vercel.app  
+## 💼 Featured Work
 
----
+- **🌐 Personal Portfolio**: [melese.vercel.app](https://melese.vercel.app) - Modern responsive portfolio.
+- **📦 GitHub Projects**: [meleseabrham](https://github.com/meleseabrham) - Web, mobile, and full-stack solutions.
 
-⭐ If you like my work, feel free to star my repositories!
+<br/>
+
+## 📫 Reach Out to Me
+
+If you'd like to collaborate on a project or just want to say hi, feel free to reach out! I am always open to discussing new ideas, innovative projects, or potential B2B collaborations.
+
+<p align="left">
+  <a href="mailto:meleseabrham17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/melesse-abrham/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://melese.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+<p align="center">
+  ⭐ If you like my work, feel free to star my repositories!
+</p>
