@@ -1,97 +1,95 @@
-# Hi there 👋 I'm **Melese Abrham**
+# 👋 Hi, I'm Melese Abrham
 
-🌍 Software Application Developer | Cybersecurity Enthusiast | Full Stack Developer
+🚀 Software Application Developer | Full Stack Developer | Mobile App Developer  
 
-I'm a passionate tech professional with experience in building secure, scalable, and modern software applications — both web and mobile.
-
-I combine strong development skills with security knowledge to build systems that not only work well but are resilient and robust.
+I build modern, scalable, and high-performance web and mobile applications using industry-standard technologies.
 
 ---
 
 ## 🚀 About Me
 
-👨‍💻 Software Application Developer  
-🔐 Cybersecurity & Digital Forensics  
-📱 Mobile App & Web Development  
-☁️ Backend & Cloud Systems  
-🛡️ Secure System Architecture
+- 💻 Full Stack Web Developer
+- 📱 Mobile App Developer (Flutter & Kotlin)
+- ☁️ Backend & Cloud Systems Developer
+- 🏗️ System Architecture & Database Design
+- 🎯 Problem Solver & Continuous Learner
 
-I am driven by problem-solving, creating efficient solutions, and continually learning in the rapidly evolving field of technology.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🧠 Programming Languages
-- JavaScript
-- TypeScript
-- Dart
-- Kotlin
-- PHP
-- C++
-- SQL
-
-### ⚙️ Frontend
-- React.js
-- HTML5 & CSS3
-- Bootstrap
-- Tailwind CSS
-
-### 🛠️ Backend & Databases
-- Node.js
-- Express.js
-- Firebase
-- Supabase
-- SQL Server
-- MySQL
-
-### 📱 Mobile Development
-- Flutter
-- Android / Jetpack Compose
-
-### 🔐 Cybersecurity & Forensics
-- Digital Forensics Tools
-- Reverse Engineering
-- Network Security
-- Vulnerability Assessment
+I enjoy transforming ideas into powerful digital solutions.
 
 ---
 
-## 💼 Featured Projects
+# 🛠️ Tech Stack
 
-### 🔗 Portfolio Website  
-A personal portfolio showcasing my bio, skills, projects, and contact information with a clean, responsive design.  
-🌐 Live 🖥️: https://melese.vercel.app/
+## 👨‍💻 Programming Languages
 
-*(Add more project links below once you upload them to GitHub)*
-
-### 🔗 GitHub Profile  
-Browse my public repositories, code contributions, and open-source work:  
-📂 https://github.com/meleseabrham
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,dart,kotlin,sql" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Frontend Development
 
-📧 Email: **meleseabrham17@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/melesse-abrham/  
-🌐 Portfolio: https://melese.vercel.app/
-
----
-
-## 📈 GitHub Stats
-
-![Melese's GitHub stats](https://github-readme-stats.vercel.app/api?username=meleseabrham&show_icons=true&theme=radical)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## ⚙️ Backend & Database
 
-- Advanced Cloud Security
-- Large-Scale System Architecture
-- AI & Machine Learning Tools
-- Secure DevOps & CI/CD Pipelines
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql,mongodb" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile — feel free to explore my work!
+## 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+# 💼 Featured Work
+
+### 🌐 Personal Portfolio
+🔗 https://melese.vercel.app  
+Modern responsive portfolio showcasing projects, resume, and services.
+
+### 📦 GitHub Projects
+🔗 https://github.com/meleseabrham  
+Web apps, mobile applications, backend systems, and full-stack solutions.
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email: meleseabrham17@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/melesse-abrham/  
+🌐 Portfolio: https://melese.vercel.app  
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
