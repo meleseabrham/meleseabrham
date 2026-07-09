@@ -1,9 +1,14 @@
+<h1 align="center">
+  Hi there, I'm Melese Abrham
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
+</h1>
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:1e3a8a,100:0f172a&text=Melese%20Abrham&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Engineer&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:1e3a8a,100:0f172a&text=.&fontSize=1&fontColor=0f172a&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=52"
     width="100%"
   />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2381D4FA&center=true&vCenter=true&width=800&height=30&lines=Building+scalable+web+%26+mobile+systems+with+modern+technologies" alt="Description" />
 </p>
