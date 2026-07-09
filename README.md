@@ -45,7 +45,7 @@
       <br><br>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" /> 
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </div> -->
