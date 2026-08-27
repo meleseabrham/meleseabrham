@@ -80,7 +80,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=radical&border_radius=10" alt="Melese's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Melese's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
 </p>
 
