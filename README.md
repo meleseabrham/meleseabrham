@@ -28,7 +28,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+  <img src="./divider.svg" width="100%" alt="Divider" />
 </p>
 ## 🛠️ Expertise & Tech Stack
 
@@ -40,19 +40,19 @@
   <img src="./techstack.svg" width="100%" height="32" alt="Tech Stack" /> 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<!-- <p align="center">
+  <img src="./divider.svg" width="100%" alt="Divider" />
 </p>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Melese's GitHub Stats" height="180" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Melese's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+  <img src="./divider.svg" width="100%" alt="Divider" />
 </p>
 
 ## Contribution Activity
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+  <img src="./divider.svg" width="100%" alt="Divider" />
 </p>
 
 ## 🌐 Personal Portfolio  
@@ -101,7 +101,7 @@ If you'd like to collaborate on a project or just want to say hi, feel free to r
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+  <img src="./divider.svg" width="100%" alt="Divider" />
 </p>
 
 <p align="center">
