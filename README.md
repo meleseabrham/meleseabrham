@@ -19,41 +19,8 @@
   <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github" alt="Stars" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github" alt="Followers" /></a>
-</p>
-<!-- <div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,189,248,0.15);">
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-   <br><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-    <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-      <br><br>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" /> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-</div> -->
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
