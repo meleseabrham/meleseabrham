@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="./techstack.svg" width="100%" alt="Tech Stack" /> 
+  <img src="./techstack.svg" width="100%" height="32" alt="Tech Stack" /> 
 </p>
 
 <p align="center">
