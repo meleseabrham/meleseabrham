@@ -78,22 +78,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight" alt="Melese's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight" alt="Melese's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-
-<!-- ## 💼 Featured Work -->
-
 ## 🌐 Personal Portfolio  
 🔗 **Live:** https://melese.vercel.app  
 
