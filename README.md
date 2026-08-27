@@ -70,7 +70,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,supabase,flutter,androidstudio,git,github,vscode,docker,vercel,figma,postman,linux&theme=dark" height="38" alt="Tech Stack Marquee" />
+    <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,supabase,flutter,androidstudio,git,github,vscode,docker,vercel,figma,postman,linux&perline=30&theme=dark" height="38" alt="Tech Stack Marquee" />
   </marquee>
 </p>
 
