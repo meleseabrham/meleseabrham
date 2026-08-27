@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=180&section=header&text=Melese%20Abrham&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descSize=18&descAlignY=62" width="100%" alt="Melese Abrham Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=180&section=header&text=Melese%20Abrham&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20and%20Mobile%20Application%20Developer&descSize=18&descAlignY=62" width="100%" alt="Melese Abrham Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Building+Scalable+Web+%26+Mobile+Solutions;Flutter+%26+Kotlin+Specialist;React+%26+Node.js+Architect" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Building+Scalable+Web+and+Mobile+Solutions;Flutter+and+Kotlin+Specialist;React+and+Node.js+Architect" alt="Typing Subtitle" />
   </a>
 
   <br/>
