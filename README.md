@@ -40,44 +40,13 @@ current_stack: React, Node.js, Express, Flutter, Kotlin, MongoDB, Supabase
 
 ### 🛠️ Tech Stack & Toolbox
 
-<div align="center">
-
-#### 💻 Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql&theme=dark" alt="Languages" />
-  </a>
-</p>
-
-#### 🌐 Frontend Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
-  </a>
-</p>
-
-#### ⚙️ Backend, Databases & Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&theme=dark" alt="Backend & Databases" />
-  </a>
-</p>
-
-#### 📱 Mobile App Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" alt="Mobile" />
-  </a>
-</p>
-
-#### 🔧 Tools & Workflow
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,vercel&theme=dark" alt="Tools" />
-  </a>
-</p>
-
-</div>
+| Node | Domain | Technologies |
+| :--- | :--- | :--- |
+| `├── 💻` | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql&theme=dark" height="28" alt="Languages" /> |
+| `├── 🌐` | **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" height="28" alt="Frontend" /> |
+| `├── ⚙️` | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&theme=dark" height="28" alt="Backend & Databases" /> |
+| `├── 📱` | **Mobile Apps** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" height="28" alt="Mobile" /> |
+| `└── 🔧` | **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,vercel&theme=dark" height="28" alt="Tools" /> |
 
 ---
 
