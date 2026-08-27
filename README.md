@@ -63,16 +63,15 @@
 </p>
 ## 🛠️ Expertise & Tech Stack
 
-| Property | Data |
-| :--- | :--- |
-| **🚀 About Me** | Software Application Developer passionate about building high-performance web and mobile applications. |
-| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="33" /> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="33" /> <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="33" /> <img src="https://skillicons.dev/icons?i=php" title="PHP" height="33" /> <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="33" /> <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="33" /> <img src="https://skillicons.dev/icons?i=sql" title="SQL" height="33" /></p> |
-| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react" title="React" height="33" /> <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="33" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="33" /> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="33" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="33" /></p> |
-| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="33" /> <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="33" /> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="33" /> <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="33" /> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="33" /> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="33" /></p> |
-| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="33" /> <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="33" /></p> |
-| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git" title="Git" height="33" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="33" /> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="33" />  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="33" /><img src="https://skillicons.dev/icons?i=docker" title="Docker" height="33" /></p> |
+<p align="center">
+  <em>Software Application Developer passionate about building high-performance web and mobile applications.</em>
+</p>
 
-<br/>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,supabase,flutter,androidstudio,git,github,vscode,docker,vercel,figma,postman,linux&theme=dark" height="38" alt="Tech Stack Marquee" />
+  </marquee>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
