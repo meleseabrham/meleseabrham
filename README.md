@@ -77,6 +77,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=radical&border_radius=10" alt="Melese's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
 ## 🌐 Personal Portfolio  
 🔗 **Live:** https://melese.vercel.app  
 
