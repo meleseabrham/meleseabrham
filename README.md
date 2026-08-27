@@ -1,134 +1,147 @@
-<h1 align="center">
-  Hi there, I'm Melese Abrham
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
-</h1>
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:1e3a8a,100:0f172a&text=.&fontSize=1&fontColor=0f172a&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=52"
-    width="100%"
-  />
-</p>
+<div align="center">
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,30:1e3a8a,70:3b82f6,100:0d1117&height=220&section=header&text=Melese%20Abrham&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2381D4FA&center=true&vCenter=true&width=800&height=30&lines=Building+scalable+web+%26+mobile+systems+with+modern+technologies" alt="Description" />
-</p>
-<p align="center">
-    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=flat-square"></a>
-    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Focus-Fullstack-FF1493?style=flat-square"></a>
-    <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github"></a>
-    <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github"></a>
-</p>
-<!-- <div align="center" style="background: #0D1117; padding: 30px; border-radius: 18px; box-shadow: 0 0 25px rgba(56,189,248,0.15);">
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-   <br><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-    <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-      <br><br>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" /> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-</div> -->
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p align="center">
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Melese+Abrham;Full+Stack+%26+Mobile+App+Developer;Building+modern+digital+solutions;Flutter+%26+Kotlin+Enthusiast;React+%26+Node.js+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Building+Scalable+Web+%26+Mobile+Solutions;Flutter+%26+Kotlin+Specialist;React+%26+Node.js+Architect" alt="Typing Subtitle" />
   </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-## 🛠️ Expertise & Tech Stack
 
-| Property | Data |
-| :--- | :--- |
-| **🚀 About Me** | Software Application Developer passionate about building high-performance web and mobile applications. |
-| **👨‍💻 Programming** | <p align="left"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="33" /> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="33" /> <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="33" /> <img src="https://skillicons.dev/icons?i=php" title="PHP" height="33" /> <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="33" /> <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="33" /> <img src="https://skillicons.dev/icons?i=sql" title="SQL" height="33" /></p> |
-| **🌐 Frontend** | <p align="left"><img src="https://skillicons.dev/icons?i=react" title="React" height="33" /> <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="33" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="33" /> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="33" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="33" /></p> |
-| **⚙️ Backend & DB** | <p align="left"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="33" /> <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="33" /> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="33" /> <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="33" /> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="33" /> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="33" /></p> |
-| **📱 Mobile** | <p align="left"><img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="33" /> <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="33" /></p> |
-| **🛠️ Tools** | <p align="left"><img src="https://skillicons.dev/icons?i=git" title="Git" height="33" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="33" /> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="33" /> <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="33" /> <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="33" /></p> |
+  <br/>
 
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight" alt="Melese's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight" alt="Melese's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-
-<!-- ## 💼 Featured Work -->
-
-## 🌐 Personal Portfolio  
-🔗 **Live:** https://melese.vercel.app  
-
-A modern, fully responsive portfolio showcasing my projects, skills, services, and professional background.  
-Built with modern frontend technologies and optimized for performance and scalability.
+  <!-- Quick Status Badges -->
+  <p align="center">
+    <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=for-the-badge&logo=github&logoColor=white&color=10B981" alt="Status" /></a>
+    <a href="https://melese.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel&logoColor=white&color=0284C7" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/melesse-abrham/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-<!-- ### 📦 GitHub Projects  
-🔗 **Repository:** https://github.com/meleseabrham  
+### 👨‍💻 About Me
 
-A collection of web applications, mobile apps, backend systems, and full-stack solutions demonstrating practical implementations of real-world software architecture and development principles. -->
+```yaml
+name: Melese Abrham
+role: Full Stack & Mobile Application Developer
+focus: Modern Web Apps, Mobile Ecosystems, Scalable Backends
+location: Ethiopia
+passions: Clean Architecture, Developer Experience, Cloud Systems
+current_stack: React, Node.js, Express, Flutter, Kotlin, MongoDB, Supabase
+```
+
+- 🚀 **What I Do:** Build scalable, high-performance web applications and fluid cross-platform mobile apps.
+- 💡 **Core Strengths:** End-to-end full-stack architecture, RESTful API design, responsive UI/UX, and database modeling.
+- 🌱 **Continuous Learning:** Exploring distributed systems, advanced DevOps workflows, and microservices architecture.
+- 💬 **Ask Me About:** React, Node.js, Flutter, Kotlin, SQL/NoSQL databases, and modern software design patterns.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+<div align="center">
+
+#### 💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+#### 🌐 Frontend Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+#### ⚙️ Backend, Databases & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&theme=dark" alt="Backend & Databases" />
+  </a>
+</p>
+
+#### 📱 Mobile App Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" alt="Mobile" />
+  </a>
+</p>
+
+#### 🔧 Tools & Workflow
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,vercel&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="175" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+### 🌐 Featured Showcase
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://melese.vercel.app">Personal Portfolio</a></h3>
+      <p>A high-performance, fully responsive personal portfolio featuring modern animations, project showcases, and services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://melese.vercel.app"><strong>View Live Demo →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/meleseabrham?tab=repositories">Full-Stack & Mobile Ecosystems</a></h3>
+      <p>Production-ready web and mobile applications engineered with scalable APIs, clean state management, and intuitive UX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/meleseabrham?tab=repositories"><strong>Explore Repositories →</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:meleseabrham17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/melesse-abrham/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://melese.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <br/>
 
-## 📫 Reach Out to Me
-
-If you'd like to collaborate on a project or just want to say hi, feel free to reach out! I am always open to discussing new ideas, innovative projects, or potential B2B collaborations.
-
-<p align="left">
-  <a href="mailto:meleseabrham17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/melesse-abrham/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://melese.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-
-<p align="center">
-  ⭐ If you like my work, feel free to star my repositories!
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,30:1e3a8a,70:3b82f6,100:0d1117&height=90&section=footer" width="100%" alt="Footer Banner" />
+</div>
