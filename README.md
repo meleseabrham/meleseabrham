@@ -18,6 +18,15 @@
   </p>
 </div>
 
+<br/>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/meleseabrham/meleseabrham/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<p align="right"><i>⚠️ If the snake above doesn't render, follow the setup note at the bottom of this file — it needs a one-time GitHub Action.</i></p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -34,29 +43,56 @@ current_stack: React, Node.js, Express, Flutter, Kotlin, MongoDB, Supabase
 - 🚀 **What I Do:** Build scalable, high-performance web applications and fluid cross-platform mobile apps.
 - 💡 **Core Strengths:** End-to-end full-stack architecture, RESTful API design, responsive UI/UX, and database modeling.
 - 🌱 **Continuous Learning:** Exploring distributed systems, advanced DevOps workflows, and microservices architecture.
+- 🔭 **Currently Building:** Production-grade mobile apps with Flutter + Supabase backends.
 - 💬 **Ask Me About:** React, Node.js, Flutter, Kotlin, SQL/NoSQL databases, and modern software design patterns.
+- ⚡ **Fun Fact:** I enjoy turning messy requirements into clean, maintainable architecture.
 
 ---
 
 ### 🛠️ Tech Stack & Toolbox
 
-| Node | Domain | Technologies |
-| :--- | :--- | :--- |
-| `├── 💻` | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql&theme=dark" height="28" alt="Languages" /> |
-| `├── 🌐` | **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" height="28" alt="Frontend" /> |
-| `├── ⚙️` | **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&theme=dark" height="28" alt="Backend & Databases" /> |
-| `├── 📱` | **Mobile Apps** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" height="28" alt="Mobile" /> |
-| `└── 🔧` | **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,vercel&theme=dark" height="28" alt="Tools" /> |
+<table width="100%">
+  <tr>
+    <td width="18%"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,cpp,php,sql&theme=dark" height="30" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" height="30" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&theme=dark" height="30" alt="Backend & Databases" /></td>
+  </tr>
+  <tr>
+    <td><b>📱 Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" height="30" alt="Mobile" /></td>
+  </tr>
+  <tr>
+    <td><b>🔧 Tools & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,vercel&theme=dark" height="30" alt="Tools" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="175" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="175" />
-  </p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="175" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="175" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meleseabrham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meleseabrham&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -111,3 +147,12 @@ current_stack: React, Node.js, Express, Flutter, Kotlin, MongoDB, Supabase
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
+
+<!--
+SETUP NOTE (delete this comment once done):
+The snake animation near the top needs a GitHub Action to generate the SVG.
+1. Create .github/workflows/snake.yml in this repo (the special "username/username" repo)
+2. Use the action from https://github.com/Platane/snk
+3. It will output to the "output" branch — the image URL above already points there
+Everything else (stats, streak, trophies, activity graph) works immediately with no setup.
+-->
