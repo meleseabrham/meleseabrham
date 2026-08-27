@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,30:1e3a8a,70:3b82f6,100:0d1117&height=220&section=header&text=Melese%20Abrham&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=180&section=header&text=Melese%20Abrham&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descSize=18&descAlignY=62" width="100%" alt="Melese Abrham Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
@@ -88,9 +88,6 @@ current_stack: React, Node.js, Express, Flutter, Kotlin, MongoDB, Supabase
     <img src="https://github-readme-stats-fast.vercel.app/api?username=meleseabrham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="175" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="175" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meleseabrham&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
 </div>
 
 ---
@@ -143,5 +140,5 @@ current_stack: React, Node.js, Express, Flutter, Kotlin, MongoDB, Supabase
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,30:1e3a8a,70:3b82f6,100:0d1117&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
