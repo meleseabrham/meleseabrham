@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11,28,30&height=3&section=header&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 1" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11,28,30&height=1&section=header&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 1" />
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6,30,28&height=2&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6,30,28&height=1&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 2" />
 </p>
 
 ## 👋 Hello, World!
@@ -39,7 +39,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,6,11,30,20&height=4&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,6,11,30,20&height=1&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 3" />
 </p>
 
 ## 🔥 Quick Stats
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,28,11,6&height=3&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 4" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,28,11,6&height=1&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 4" />
 </p>
 
 ## 🛠️ Techs
@@ -79,7 +79,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,30,20,28&height=4&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 5" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,30,20,28&height=1&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 5" />
 </p>
 
 ## 📈 Contribution Activity
@@ -95,7 +95,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,28,30,20,11&height=3&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,28,30,20,11&height=1&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 6" />
 </p>
 
 ## 🌐 My Portfolio
@@ -109,7 +109,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,30,6,28,11&height=4&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 7" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,30,6,28,11&height=1&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 7" />
 </p>
 
 ## 📬 Let's Connect
@@ -137,7 +137,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,30,11,6,20&height=3&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,30,11,6,20&height=1&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 8" />
 </p>
 
 ## 💖 Support My Work
@@ -153,7 +153,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,28,20,6,30&height=3&animation=fadeIn" width="100%" alt="Gradient Band 9" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,28,20,6,30&height=1&animation=fadeIn" width="100%" alt="Gradient Band 9" />
 </p>
 
 <p align="center">
