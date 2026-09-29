@@ -1,5 +1,5 @@
-<div style="position:relative;">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Background" style="position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.05;z-index:-1;object-fit:cover;pointer-events:none;" />
+<!-- <div style="position:relative;">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Background" style="position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.05;z-index:-1;object-fit:cover;pointer-events:none;" /> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=200&section=header&text=Melese%20Abrham&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
