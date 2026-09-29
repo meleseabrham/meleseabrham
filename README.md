@@ -7,13 +7,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs" width="90%" alt="Motivational Quote" />
-</div>
-
-<br>
-
 ---
 
 ## 👋 Hello, World!
