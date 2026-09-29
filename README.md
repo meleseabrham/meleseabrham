@@ -144,6 +144,12 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" alt="Buy Me A Coffee" />
   </a>
   <br><br>
+  <samp>…or scan the QR code below with your phone ☕</samp>
+  <br>
+  <a href="https://buymeacoffee.com/meleseabrham" target="_blank">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://buymeacoffee.com/meleseabrham&margin=10&qzone=1&color=221F3B&bgcolor=FFFFFF" width="180" alt="Buy Me a Coffee QR" style="border-radius:12px;padding:6px;background:#fff;box-shadow:0 4px 20px rgba(124,58,237,0.25);" />
+  </a>
+  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+reading!+✨;Happy+Coding!+%F0%9F%92%BB;See+you+around!+%F0%9F%91%8B" alt="Closing Animation" />
 </div>
 
