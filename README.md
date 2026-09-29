@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=180&section=header&text=Melese%20Abrham&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
-</div>
+</div> -->
 
 <br>
 
