@@ -1,179 +1,187 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,50:06B6D4,100:EC4899&height=220&section=header&text=Melese%20Abrham&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=180&section=header&text=Melese%20Abrham&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<p align="center">
-  <a href="https://melese.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+Building+modern+Web+%26+Mobile+apps;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Clean+code+%26+great+UX;%E2%98%81%EF%B8%8F+Exploring+Cloud%2C+AI+%26+System+Design" alt="Typing intro" />
-  </a>
-</p>
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
+</div> -->
 
-<p align="center">
-  <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=for-the-badge&logo=github&label=Followers&color=06B6D4&labelColor=0D1117" alt="Followers" /></a>
-  <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=for-the-badge&logo=github&label=Stars&color=F59E0B&labelColor=0D1117" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20Views&color=EC4899&style=for-the-badge&labelColor=0D1117" alt="Views" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-10B981?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
-</p>
+## 👋 Hello, World!
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👋 About Me
-
-I'm a **Full Stack Software Engineer** who turns complex problems into simple, elegant, and scalable products. I care about clean architecture, fast performance, and interfaces people enjoy using.
-
-<table>
-  <tr>
-    <td>🎯 <b>Focus</b></td>
-    <td>Full-Stack Web & Mobile Development</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Exploring</b></td>
-    <td>Cloud Architecture · AI · System Design</td>
-  </tr>
-  <tr>
-    <td>🤝 <b>Open to</b></td>
-    <td>Collaboration · B2B Projects · Remote Work</td>
-  </tr>
-  <tr>
-    <td>📫 <b>Reach me</b></td>
-    <td><a href="mailto:meleseabrham17@gmail.com">meleseabrham17@gmail.com</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <p align="left">
+          I'm a passionate <strong>Full Stack Software Engineer</strong> with a keen eye for building elegant, scalable, and user-friendly applications. I specialize in transforming complex problems into simple, beautiful, and intuitive designs.
+        </p>
+        <ul>
+          <li>🎯 <strong>Focus:</strong> Full-Stack Web & Mobile Development</li>
+          <li>🌱 <strong>Exploring:</strong> Cloud Architecture, AI, and System Design</li>
+          <!-- <li>💡 <strong>Philosophy:</strong> Clean code, great UX, and continuous learning</li> -->
+          <li>🤝 <strong>Open to:</strong> Collaboration, B2B Projects, and Remote Work</li>
+        </ul>
+      </td>
+      <td width="40%">
+        <p align="center">
+          <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" alt="Coding GIF" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Tech Stack
+---
 
-<table>
-  <tr>
-    <td width="200"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&theme=dark" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td><b>📱 Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&theme=dark" alt="Mobile" /></td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&theme=dark" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td><b>☁️ DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&theme=dark" alt="DevOps" /></td>
-  </tr>
-</table>
+## 🔥 Quick Stats
+
+<div align="center">
+  <a href="https://github.com/meleseabrham">
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
+  </a>
+  <a href="https://github.com/meleseabrham?tab=followers">
+    <img src="https://img.shields.io/github/followers/meleseabrham?style=for-the-badge&logo=github&label=Followers&color=06B6D4" alt="Followers" />
+  </a>
+  <a href="https://github.com/meleseabrham?tab=stars">
+    <img src="https://img.shields.io/github/stars/meleseabrham?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <br>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🚀 Featured Projects
+<!-- ---
 
-> 🔧 Replace `REPO_NAME_1`, `REPO_NAME_2`, etc. with your real repository names.
+## ⚡ GitHub Streak
 
-<p align="center">
-  <a href="https://github.com/meleseabrham/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meleseabrham&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9" alt="Project 1" />
-  </a>
-  <a href="https://github.com/meleseabrham/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meleseabrham&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9" alt="Project 2" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meleseabrham&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" width="65%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+--- -->
+
+## 🛠️ Techs
+
+<div align="left">
   <br>
-  <a href="https://github.com/meleseabrham/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meleseabrham&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9" alt="Project 3" />
-  </a>
-  <a href="https://github.com/meleseabrham/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meleseabrham&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9" alt="Project 4" />
-  </a>
-</p>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Frontend / UI</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="50%" alt="Frontend Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Backend / Server-Side</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" width="35%" alt="Backend Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Mobile Development</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" width="20%" alt="Mobile Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Databases</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" width="30%" alt="Database Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ DevOps, Cloud & Tools</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="55%" alt="DevOps & Tools" />
+    </div>
+  </div>
+</div>
 
 <br>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=meleseabrham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meleseabrham&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</p>
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meleseabrham&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4&currStreakNum=FFFFFF&sideLabels=06B6D4&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meleseabrham&bg_color=0D1117&color=7C3AED&line=06B6D4&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=7C3AED" width="95%" alt="Activity Graph" />
-</p>
-
-<br>
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meleseabrham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-</p>
-
-<br>
-
-<!-- ═══════════════ SNAKE ═══════════════ -->
-## 🐍 Contribution Snake
-
-<p align="center">
+<div align="center">
+  <samp>🐍 Watch my contributions transform — powered by the GitHub Snake!</samp>
+  <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meleseabrham/meleseabrham/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meleseabrham/meleseabrham/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/meleseabrham/meleseabrham/output/github-contribution-grid-snake-dark.svg" width="95%" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/meleseabrham/meleseabrham/output/github-contribution-grid-snake-dark.svg" width="95%" />
   </picture>
-</p>
+</div>
 
 <br>
 
-<!-- ═══════════════ PORTFOLIO ═══════════════ -->
-## 🌐 Portfolio
+---
 
-<p align="center">
+## 🌐 My Portfolio
+
+<div align="center">
   <a href="https://melese.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-melese.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" height="45" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-melese.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&logoWidth=20" height="45" alt="Portfolio Link" />
   </a>
-</p>
-
-<p align="center">
-  <sub>A modern, fully responsive showcase of my projects, skills, services, and journey — optimized for performance.</sub>
-</p>
+  <br><br>
+  <samp>A modern, fully responsive showcase of my projects, skills, services, and professional journey.<br>Built with cutting-edge frontend tech and optimized for blazing performance.</samp>
+</div>
 
 <br>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+---
+
 ## 📬 Let's Connect
 
-<p align="center">
-  <sub>Got an idea, a project, or just want to say hi? My inbox is open. 👋</sub>
-  <br><br>
-  <a href="mailto:meleseabrham17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/melesse-abrham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://melese.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+<div align="center">
+  <p>
+    <samp>I'm always excited to discuss new ideas, collaborate on cool projects, or simply connect with fellow developers. Don't be shy — say hi! 👋</samp>
+  </p>
+  <br>
+  <a href="mailto:meleseabrham17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/melesse-abrham/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/meleseabrham" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://melese.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br>
 
-<!-- ═══════════════ SUPPORT ═══════════════ -->
+---
+
 ## 💖 Support My Work
 
-<p align="center">
-  <sub>If my repositories helped you, a ⭐ goes a long way!</sub>
+<div align="center">
+  <samp>If you found value in my repositories or just want to brighten my day, a ⭐ goes a long way!</samp>
   <br><br>
   <a href="https://buymeacoffee.com/meleseabrham" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" alt="Buy Me A Coffee" />
   </a>
-</p>
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+reading!+✨;Happy+Coding!+%F0%9F%92%BB;See+you+around!+%F0%9F%91%8B" alt="Closing Animation" />
+</div>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:06B6D4,100:7C3AED&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,28,20,11,6&height=120&section=footer&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Wave" />
 </p>
