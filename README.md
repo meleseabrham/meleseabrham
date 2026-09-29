@@ -70,34 +70,34 @@
 
 <div align="left">
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;gap:16px;margin-left:4%;">
-    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;width:180px;display:inline-block;">⬆ Frontend / UI</samp>
-    <span style="display:inline-block;width:1px;height:24px;background:#30363D;"></span>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="35%" alt="Frontend Skills" />
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Frontend / UI</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" style="flex:1;min-width:0;" alt="Frontend Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;gap:16px;margin-left:4%;">
-    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;width:180px;display:inline-block;">⬆ Backend / Server-Side</samp>
-    <span style="display:inline-block;width:1px;height:24px;background:#30363D;"></span>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=10" width="26%" alt="Backend Skills" />
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Backend / Server-Side</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" style="flex:1;min-width:0;" alt="Backend Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;gap:16px;margin-left:4%;">
-    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;width:180px;display:inline-block;">⬆ Mobile Development</samp>
-    <span style="display:inline-block;width:1px;height:24px;background:#30363D;"></span>
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=10" width="15%" alt="Mobile Skills" />
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Mobile Development</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" style="flex:1;min-width:0;" alt="Mobile Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;gap:16px;margin-left:4%;">
-    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;width:180px;display:inline-block;">⬆ Databases</samp>
-    <span style="display:inline-block;width:1px;height:24px;background:#30363D;"></span>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=10" width="23%" alt="Database Skills" />
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Databases</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" style="flex:1;min-width:0;" alt="Database Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;gap:16px;margin-left:4%;">
-    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;width:180px;display:inline-block;">⬆ DevOps, Cloud & Tools</samp>
-    <span style="display:inline-block;width:1px;height:24px;background:#30363D;"></span>
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="39%" alt="DevOps & Tools" />
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ DevOps, Cloud & Tools</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" style="flex:1;min-width:0;" alt="DevOps & Tools" />
   </div>
 </div>
 
