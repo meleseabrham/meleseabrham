@@ -98,8 +98,6 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/meleseabrham" width="95%" alt="Contribution Chart" />
-  <br><br>
   <samp>🐍 Watch my contributions transform — powered by the GitHub Snake!</samp>
   <br><br>
   <picture>
