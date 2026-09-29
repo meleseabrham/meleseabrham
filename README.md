@@ -54,7 +54,7 @@
 
 <br>
 
----
+<!-- ---
 
 ## ⚡ GitHub Streak
 
@@ -64,7 +64,7 @@
 
 <br>
 
----
+--- -->
 
 ## 🛠️ Tech Arsenal
 
@@ -155,7 +155,7 @@
 <div align="center">
   <samp>If you found value in my repositories or just want to brighten my day, a ⭐ goes a long way!</samp>
   <br><br>
-  <a href="https://www.buymeacoffee.com/meleseabrham" target="_blank">
+  <a href="https://buymeacoffee.com/meleseabrham" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" alt="Buy Me A Coffee" />
   </a>
   <br><br>
