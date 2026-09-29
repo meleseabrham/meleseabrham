@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e3a8a,100:0f172a&text=Full%20Stack%20Software%20Enginer%20and&fontSize=26&fontColor=ffffff&fontAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e3a8a,100:0f172a&text=Full%20Stack%20Software%20Enginer&fontSize=26&fontColor=ffffff&fontAlignY=55"
     width="100%"
     alt="Full Stack Software Enginer "
   />
