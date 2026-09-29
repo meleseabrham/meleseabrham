@@ -70,25 +70,30 @@
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="40%" alt="Frontend Skills" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Frontend / UI</samp>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="35%" alt="Frontend Skills" />
+  </div>
   <br>
-  <h6><samp>⬆ Frontend / UI</samp></h6>
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Backend / Server-Side</samp>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=10" width="26%" alt="Backend Skills" />
+  </div>
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=10" width="30%" alt="Backend Skills" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Mobile Development</samp>
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=10" width="15%" alt="Mobile Skills" />
+  </div>
   <br>
-  <h6><samp>⬆ Backend / Server-Side</samp></h6>
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Databases</samp>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=10" width="23%" alt="Database Skills" />
+  </div>
   <br>
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=10" width="18%" alt="Mobile Skills" />
-  <br>
-  <h6><samp>⬆ Mobile Development</samp></h6>
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=10" width="26%" alt="Database Skills" />
-  <br>
-  <h6><samp>⬆ Databases</samp></h6>
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="44%" alt="DevOps & Tools" />
-  <br>
-  <h6><samp>⬆ DevOps, Cloud & Tools</samp></h6>
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ DevOps, Cloud & Tools</samp>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="39%" alt="DevOps & Tools" />
+  </div>
 </div>
 
 <br>
