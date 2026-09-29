@@ -4,28 +4,25 @@
 </h1>
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e3a8a,100:0f172a&text=Full%20Stack%20Software%20Developer&fontSize=26&fontColor=ffffff&fontAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e3a8a,100:0f172a&text=Full%20Stack%20Software%20Enginer%20and&fontSize=26&fontColor=ffffff&fontAlignY=55"
     width="100%"
-    alt="Full Stack Software Developer"
+    alt="Full Stack Software Enginer "
   />
 </p>
 <p align="center">
   <a href="https://github.com/meleseabrham"><img src="https://img.shields.io/badge/Focus-Fullstack-FF1493?style=flat-square" alt="Focus Fullstack" /></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/meleseabrham?tab=stars"><img src="https://img.shields.io/github/stars/meleseabrham?style=flat-square&logo=github" alt="Stars" /></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/meleseabrham?tab=followers"><img src="https://img.shields.io/github/followers/meleseabrham?style=flat-square&logo=github" alt="Followers" /></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2381D4FA&center=true&vCenter=true&width=800&height=30&lines=Building+scalable+web+%26+mobile+systems+with+modern+technologies" alt="Description" />
+<p align="center" style="margin: 8px 0;">
+  <span style="color: #81D4FA; font-size: 18px;">Building scalable web & mobile systems with modern technologies</span>
 </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Melese+Abrham;Full+Stack+%26+Mobile+App+Developer;Building+modern+digital+solutions;Flutter+%26+Kotlin+Enthusiast;React+%26+Node.js+Expert" alt="Typing SVG" />
-  </a>
+<p align="center" style="margin: 8px 0;">
+  <span style="color: #36BCF7; font-size: 20px;">Full Stack & Mobile App Developer</span>
 </p>
 <p align="center">
   <img src="./divider.svg" width="100%" alt="Divider" />
