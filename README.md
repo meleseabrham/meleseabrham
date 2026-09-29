@@ -68,36 +68,31 @@
 
 ## 🛠️ Techs
 
-<div align="left">
+<div align="center">
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:50%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Frontend / UI</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" style="flex:1;min-width:0;" alt="Frontend Skills" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Frontend / UI</samp>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="35%" alt="Frontend Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:50%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Backend / Server-Side</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" style="flex:1;min-width:0;" alt="Backend Skills" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Backend / Server-Side</samp>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=10" width="26%" alt="Backend Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:50%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Mobile Development</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" style="flex:1;min-width:0;" alt="Mobile Skills" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Mobile Development</samp>
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=10" width="15%" alt="Mobile Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:50%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Databases</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" style="flex:1;min-width:0;" alt="Database Skills" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ Databases</samp>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=10" width="23%" alt="Database Skills" />
   </div>
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:50%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ DevOps, Cloud & Tools</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" style="flex:1;min-width:0;" alt="DevOps & Tools" />
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <samp style="font-size:13px;color:#8B949E;white-space:nowrap;">⬆ DevOps, Cloud & Tools</samp>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="39%" alt="DevOps & Tools" />
   </div>
 </div>
 
