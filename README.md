@@ -66,17 +66,9 @@
 
 ## 🛠️ Techs
 
-<div align="left" style="margin-left:2%;">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="50%" alt="Frontend Skills" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" width="35%" alt="Backend Skills" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" width="20%" alt="Mobile Skills" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" width="30%" alt="Database Skills" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="55%" alt="DevOps & Tools" />
-</div>
+<p align="center">
+  <img src="./techstack.svg" width="100%" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,30,20,28&height=1&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 5" />
