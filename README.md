@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
 </div> -->
 
-<br>
-
 ## 👋 Hello, World!
 
 <div align="center">
@@ -68,17 +66,47 @@
 
 ## 🛠️ Techs
 
-<div align="left" style="margin-left:2%;">
+<div align="left">
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="50%" alt="Frontend Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" width="35%" alt="Backend Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" width="20%" alt="Mobile Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" width="30%" alt="Database Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="55%" alt="DevOps & Tools" />
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Frontend / UI</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="50%" alt="Frontend Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Backend / Server-Side</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" width="35%" alt="Backend Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Mobile Development</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" width="20%" alt="Mobile Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Databases</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" width="30%" alt="Database Skills" />
+    </div>
+  </div>
+  <br>
+  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
+    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ DevOps, Cloud & Tools</samp>
+    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
+    <div style="flex:1;min-width:0;">
+      <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="55%" alt="DevOps & Tools" />
+    </div>
+  </div>
 </div>
 
 <br>
