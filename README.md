@@ -73,19 +73,19 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="40%" alt="Frontend Skills" />
   <br>
   <h6><samp>⬆ Frontend / UI</samp></h6>
-  <br><br>
+  <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=10" width="30%" alt="Backend Skills" />
   <br>
   <h6><samp>⬆ Backend / Server-Side</samp></h6>
-  <br><br>
+  <br>
   <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=10" width="18%" alt="Mobile Skills" />
   <br>
   <h6><samp>⬆ Mobile Development</samp></h6>
-  <br><br>
+  <br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=10" width="26%" alt="Database Skills" />
   <br>
   <h6><samp>⬆ Databases</samp></h6>
-  <br><br>
+  <br>
   <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="44%" alt="DevOps & Tools" />
   <br>
   <h6><samp>⬆ DevOps, Cloud & Tools</samp></h6>
