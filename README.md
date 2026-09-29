@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=200&section=header&text=Melese%20Abrham&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=200&section=header&text=Melese%20Abrham&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Developer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
     <tr>
       <td width="60%">
         <p align="left">
-          I'm a passionate <strong>Full Stack Software Developer</strong> with a keen eye for building elegant, scalable, and user-friendly applications. I specialize in transforming complex problems into simple, beautiful, and intuitive designs.
+          I'm a passionate <strong>Full Stack Software Engineer</strong> with a keen eye for building elegant, scalable, and user-friendly applications. I specialize in transforming complex problems into simple, beautiful, and intuitive designs.
         </p>
         <ul>
           <li>🎯 <strong>Focus:</strong> Full-Stack Web & Mobile Development</li>
@@ -46,15 +46,15 @@
 
 <div align="center">
   <a href="https://github.com/meleseabrham">
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20Engineering-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
   </a>
   &nbsp;
   <a href="https://github.com/meleseabrham?tab=followers">
-    <img src="https://img.shields.io/github/followers/meleseabrham?style=for-the-badge&logo=github&label=Followers&color=06B6D4" alt="Followers" />
+    <img src="https://img.shields.io/badge/Followers-7%20👥-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/meleseabrham?tab=stars">
-    <img src="https://img.shields.io/github/stars/meleseabrham?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars" />
+    <img src="https://img.shields.io/badge/Stars-0%20⭐-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="Profile Views" />
