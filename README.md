@@ -6,7 +6,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e3a8a,100:0f172a&text=Full%20Stack%20Software%20Engineer&fontSize=26&fontColor=ffffff&fontAlignY=55"
     width="100%"
-    alt="Full Stack Software Enginer "
+    alt="Full Stack Software Engineer"
   />
 </p>
 <p align="center">
@@ -18,12 +18,12 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
-<p align="center" style="margin: 8px 0;">
+<!-- <p align="center" style="margin: 8px 0;">
   <span style="color: #81D4FA; font-size: 18px;">Building scalable web & mobile systems with modern technologies</span>
 </p>
 <p align="center" style="margin: 8px 0;">
   <span style="color: #36BCF7; font-size: 20px;">Full Stack & Mobile App Developer</span>
-</p>
+</p> -->
 <p align="center">
   <img src="./divider.svg" width="100%" alt="Divider" />
 </p>
