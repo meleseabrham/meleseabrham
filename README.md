@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=180&section=header&text=Melese%20Abrham&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,30&height=200&section=header&text=Melese%20Abrham&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=22&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
-</div> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11,28,30&height=8&section=header&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 1" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=%F0%9F%9A%80+Building+Modern+Web+%26+Mobile+Applications;%F0%9F%92%BB+Full+Stack+Engineer+%7C+Problem+Solver;%F0%9F%8E%A8+Passionate+about+Clean+Code+%26+Great+UI;%E2%98%95%EF%B8%8F+Always+Learning+%26+Innovating" alt="Animated Intro" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6,30,28&height=6&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 2" />
+</p>
 
 ## 👋 Hello, World!
 
@@ -18,7 +26,6 @@
         <ul>
           <li>🎯 <strong>Focus:</strong> Full-Stack Web & Mobile Development</li>
           <li>🌱 <strong>Exploring:</strong> Cloud Architecture, AI, and System Design</li>
-          <!-- <li>💡 <strong>Philosophy:</strong> Clean code, great UX, and continuous learning</li> -->
           <li>🤝 <strong>Open to:</strong> Collaboration, B2B Projects, and Remote Work</li>
         </ul>
       </td>
@@ -31,9 +38,9 @@
   </table>
 </div>
 
-<br>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,6,11,30,20&height=10&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 3" />
+</p>
 
 ## 🔥 Quick Stats
 
@@ -41,77 +48,39 @@
   <a href="https://github.com/meleseabrham">
     <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Focus" />
   </a>
+  &nbsp;
   <a href="https://github.com/meleseabrham?tab=followers">
     <img src="https://img.shields.io/github/followers/meleseabrham?style=for-the-badge&logo=github&label=Followers&color=06B6D4" alt="Followers" />
   </a>
+  &nbsp;
   <a href="https://github.com/meleseabrham?tab=stars">
     <img src="https://img.shields.io/github/stars/meleseabrham?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars" />
   </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=meleseabrham&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
-
-<!-- ---
-
-## ⚡ GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=meleseabrham&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" width="65%" alt="GitHub Streak" />
-</div>
-
-<br>
-
---- -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,28,11,6&height=8&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 4" />
+</p>
 
 ## 🛠️ Techs
 
-<div align="left">
+<div align="left" style="margin-left:2%;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="50%" alt="Frontend Skills" />
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Frontend / UI</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <div style="flex:1;min-width:0;">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&perline=10" width="50%" alt="Frontend Skills" />
-    </div>
-  </div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" width="35%" alt="Backend Skills" />
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Backend / Server-Side</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <div style="flex:1;min-width:0;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,django,php,laravel&perline=7" width="35%" alt="Backend Skills" />
-    </div>
-  </div>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" width="20%" alt="Mobile Skills" />
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Mobile Development</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <div style="flex:1;min-width:0;">
-      <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio&perline=4" width="20%" alt="Mobile Skills" />
-    </div>
-  </div>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" width="30%" alt="Database Skills" />
   <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ Databases</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <div style="flex:1;min-width:0;">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite&perline=6" width="30%" alt="Database Skills" />
-    </div>
-  </div>
-  <br>
-  <div style="display:flex;align-items:center;justify-content:flex-start;width:96%;margin-left:2%;">
-    <samp style="font-size:14px;color:#8B949E;white-space:nowrap;width:210px;flex-shrink:0;">⬆ DevOps, Cloud & Tools</samp>
-    <span style="width:1px;height:28px;background:#30363D;margin:0 40px 0 40px;flex-shrink:0;"></span>
-    <div style="flex:1;min-width:0;">
-      <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="55%" alt="DevOps & Tools" />
-    </div>
-  </div>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,nginx,vercel,netlify,figma,vscode,postman&perline=11" width="55%" alt="DevOps & Tools" />
 </div>
 
-<br>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,30,20,28&height=10&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 5" />
+</p>
 
 ## 📈 Contribution Activity
 
@@ -125,9 +94,9 @@
   </picture>
 </div>
 
-<br>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,28,30,20,11&height=8&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 6" />
+</p>
 
 ## 🌐 My Portfolio
 
@@ -139,9 +108,9 @@
   <samp>A modern, fully responsive showcase of my projects, skills, services, and professional journey.<br>Built with cutting-edge frontend tech and optimized for blazing performance.</samp>
 </div>
 
-<br>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,30,6,28,11&height=10&reversal=true&animation=fadeIn" width="100%" alt="Gradient Band 7" />
+</p>
 
 ## 📬 Let's Connect
 
@@ -153,20 +122,23 @@
   <a href="mailto:meleseabrham17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/melesse-abrham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/meleseabrham" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://melese.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<br>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,30,11,6,20&height=8&reversal=false&animation=fadeIn" width="100%" alt="Gradient Band 8" />
+</p>
 
 ## 💖 Support My Work
 
@@ -180,8 +152,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+reading!+✨;Happy+Coding!+%F0%9F%92%BB;See+you+around!+%F0%9F%91%8B" alt="Closing Animation" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,28,20,6,30&height=8&animation=fadeIn" width="100%" alt="Gradient Band 9" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,28,20,11,6&height=120&section=footer&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,28,20,11,6&height=140&section=footer&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Wave" />
 </p>
